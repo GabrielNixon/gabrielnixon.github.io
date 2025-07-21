@@ -1,4 +1,9 @@
 theme: jekyll-theme-cayman
 title: Gabriel Nixon Raj
-description: PhD Applicant | Reinforcement Learning | Optimization under Uncertainty
+theme: jekyll-theme-minimal
+title: Gabriel Nixon Raj
+description: >
+  Researcher in belief systems, optimization, and inference under stress.
+url: "https://gabrielnixon.github.io"
+
 
