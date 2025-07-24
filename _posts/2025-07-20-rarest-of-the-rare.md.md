@@ -123,4 +123,15 @@ So is the doctrine a **fair moral compass**, or just **an abstract phrase** used
 
 That’s something worth asking.
 
+## Final Thought
+
+It’s not just about crime—it’s about what we, as a society, choose to forgive. Maybe it’s time to rethink how rare justice really is.
+
+---
+
+## About the Author
+
+Gabriel Nixon Raj is a data scientist and researcher interested in belief systems, decision-making under uncertainty, and structural fragility in institutions. This blog is part of a weekly exploration into things that make him curious—from legal theory to space noise.
+
+[Back to Homepage](https://gabrielnixon.github.io/)
 ---
