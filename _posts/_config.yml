@@ -2,3 +2,4 @@ title: Gabriel's Blog
 description: A place for thoughts, research, and random deep dives.
 baseurl: ""
 url: "https://gabrielnixon.github.io"
+theme: minima
