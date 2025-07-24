@@ -19,9 +19,7 @@ While **Nathuram Godse** was the first to be hanged post-Independence (for assas
 
 ### **Bachan Singh v. State of Punjab (1980)**
 
-- Bachan Singh had already served time for killing his wife.
-- After his release, he lived with his cousin.
-- On July 4, 1977, he **axed three of his cousin's children** after an argument.
+Bachan Singh had already served a prison sentence for killing his wife. After his release, he moved in with his cousin, but tensions rose within the household. On July 4, 1977, following an argument, he killed three of his cousin’s children with an axe.
 
 The trial court sentenced him to death. He appealed to the Supreme Court, questioning whether the death penalty itself violated **Article 21** (*Right to Life*).
 
@@ -32,8 +30,7 @@ It wasn’t strictly defined, but meant that *only in exceptional cases where li
 
 ### **Rajendra Prasad v. State of Uttar Pradesh**
 
-- He had killed someone with an axe over a land dispute.
-- He was given the death penalty, but **Justice Krishna Iyer** overturned the sentence.
+He had killed a man with an axe during a land dispute and was initially sentenced to death by the trial court. However, Justice Krishna Iyer later overturned the sentence, emphasizing the need to consider the possibility of reform and arguing that the death penalty should be imposed only in the most exceptional circumstances.
 
 This case introduced:
 - **Reformative justice**
@@ -70,10 +67,7 @@ Most of these will likely be **commuted to life imprisonment** during appeal.
 
 ### **Shabnam Ali (2008)**
 
-- A postgraduate from Amroha, UP
-- Along with her partner **Salim**, sedated and axed **7 family members** — including a 10-month-old baby
-- Supreme Court upheld the death penalty
-- As of 2021: Awaiting execution at Mathura Jail
+Shabnam Ali, a postgraduate from Amroha, Uttar Pradesh, carried out a brutal crime with her partner Salim in 2008. Together, they sedated and axed seven of her family members, including a 10-month-old baby. The Supreme Court upheld her death sentence, and as of 2021, she remained on death row, awaiting execution at Mathura Jail.
 
 If executed, she would be the **first woman** hanged in independent India.
 
