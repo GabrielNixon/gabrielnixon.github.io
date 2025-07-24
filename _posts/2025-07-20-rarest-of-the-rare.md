@@ -12,8 +12,6 @@ What makes a crime so brutal that even life in prison feels too little?
 What crosses the line where reform is no longer seen as an option?  
 In India, we call this kind of punishment the **"rarest of the rare"** — a doctrine not clearly defined, yet powerful enough to decide life or death.
 
----
-
 ## Where It All Began
 
 The idea started gaining legal shape in the 1980s.  
@@ -29,8 +27,6 @@ The trial court sentenced him to death. He appealed to the Supreme Court, questi
 
 The court upheld the sentence and introduced the **"rarest of the rare"** doctrine.  
 It wasn’t strictly defined, but meant that *only in exceptional cases where life imprisonment isn't enough*, the death penalty can be applied.
-
----
 
 ## Rajendra Prasad: The Turning Point
 
@@ -49,8 +45,6 @@ Even if the crime is heinous, if the criminal is **capable of reform**, the deat
 However, this logic didn’t help Bachan Singh — his death sentence was upheld.  
 Notably, there’s no public record confirming whether he was actually executed.
 
----
-
 ## Executions in Independent India
 
 Despite hundreds of death sentences, **executions are rare**.
@@ -64,8 +58,6 @@ Despite hundreds of death sentences, **executions are rare**.
 - **Yakub Memon (2015)** — 1993 Bombay blasts.
 - **Nirbhaya Convicts (2020)** — Gang-rape and murder in Delhi.
 
----
-
 ## Death Row Today
 
 - **2023**: 120 new death sentences
@@ -73,8 +65,6 @@ Despite hundreds of death sentences, **executions are rare**.
   → *Highest in two decades*
 
 Most of these will likely be **commuted to life imprisonment** during appeal.
-
----
 
 ## The First Woman on Death Row?
 
@@ -86,8 +76,6 @@ Most of these will likely be **commuted to life imprisonment** during appeal.
 - As of 2021: Awaiting execution at Mathura Jail
 
 If executed, she would be the **first woman** hanged in independent India.
-
----
 
 ## So, What Is "Rarest of the Rare"?
 
@@ -102,8 +90,6 @@ Courts consider:
 It’s a blend of facts, context, and **judicial judgment**.
 
 And yet, **actual executions are rare** — even when the law says death.
-
----
 
 ## The Unspoken Bias?
 
@@ -126,8 +112,6 @@ That’s something worth asking.
 ## Final Thought
 
 It’s not just about crime—it’s about what we, as a society, choose to forgive. Maybe it’s time to rethink how rare justice really is.
-
----
 
 ## About the Author
 
