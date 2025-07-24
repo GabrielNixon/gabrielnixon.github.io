@@ -2,7 +2,7 @@
 title: "Rarest of the Rare: What Makes a Crime Beyond Forgiveness?"
 date: 2024-07-20
 author: Gabriel Nixon Raj
-layout: post
+layout: post_full
 tags: [law, capital punishment, india, legal systems, ethics]
 ---
 
