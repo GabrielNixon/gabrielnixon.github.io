@@ -12,6 +12,6 @@ Coordination failures from misaligned incentives and partial views.
 Case studies: medical supply chains, HPC telemetry, and **ontology alignment** as optimization over uncertain equivalences.
 
 ### Current directions
-- **SLT for RL (with Yanjun Han)**: RLCT to quantify geometric fragility of policy manifolds.  
+- **SLT for RL**: RLCT to quantify geometric fragility of policy manifolds.  
 - **Spectral alignment for geospatial data (NASA/CUNY)**: reconciling band heterogeneity for generalization.  
 - **Strategy switching in tiny RNN agents**: sequential decisions under epistemic stress.
