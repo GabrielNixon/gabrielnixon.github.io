@@ -1,9 +1,22 @@
-theme: jekyll-theme-cayman
 title: Gabriel Nixon Raj
-theme: jekyll-theme-minimal
-title: Gabriel Nixon Raj
-description: >
-  Researcher in belief systems, optimization, and inference under stress.
-url: "https://gabrielnixon.github.io"
+description: Fragility, Learning, and Decision Systems
+url: https://gabrielnixon.github.io
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+plugins:
+  - jekyll-seo-tag
+  - jekyll-feed
 
+# Collections (optional)
+collections:
+  posts:
+    output: true
 
+# Defaults
+defaults:
+  - scope: { path: "" }
+    values:
+      layout: post
+      toc: false
+      nav: true
