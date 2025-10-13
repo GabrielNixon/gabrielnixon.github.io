@@ -14,4 +14,3 @@ Case studies: medical supply chains, HPC telemetry, and **ontology alignment** a
 ### Current directions
 - **SLT for RL**: RLCT to quantify geometric fragility of policy manifolds.  
 - **Spectral alignment for geospatial data (NASA/CUNY)**: reconciling band heterogeneity for generalization.  
-- **Strategy switching in tiny RNN agents**: sequential decisions under epistemic stress.
