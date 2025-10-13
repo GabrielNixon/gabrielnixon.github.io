@@ -2,8 +2,10 @@
 title: Preprints & In-Progress
 ---
 
-- **A Stress-Adaptive Framework: Trust Decay, Belief Bandwidth, and a Fragility Index**  
-  in preparation for COLT. [abstract](#)
+- **Stress-Adaptive Frameworks: Trust Decay, Belief Bandwidth, and a Fragility Index**  
+  *G. N. Raj.* In preparation for *COLT 2025*.  
+  [arXiv](https://arxiv.org/abs/2509.14385)
 
-- **Singular Learning Theory for RL: RLCT as a Measure of Policy Fragility**  
-  manuscript [abstract](#)
+- **Singular Learning Theory for Reinforcement Learning: RLCT as a Measure of Policy Fragility**  
+  *G. N. Raj, Y. Han.* Manuscript, *New York University*.  
+  [abstract](#)
