@@ -24,4 +24,10 @@ title: Home
 </div>
 
 ## About
-I work on fragility in decision systems: why local reasoning can fail to create stable global behavior. My recent work develops stress-adaptive updates (trust decay, belief bandwidth), a fragility index for sequential decisions under drift, and geometric measures of model failure using singular learning theory.
+I study how systems adapt when their assumptions fail. My research sits at the intersection of optimization, reinforcement learning, and information theory, with a focus on modeling fragility — when local reasoning breaks down and global stability is lost.
+
+I am currently pursuing my Master’s in Data Science at **New York University**.
+
+During **Summer 2025**, I worked at **Lawrence Berkeley National Laboratory**, developing multi-agent decision frameworks for high-performance computing systems under partial information and delayed feedback. I also collaborate with **Dr. Sunil Bhaskaran** at the **CUNY Geospatial Institute** on **spectral alignment** methods for heterogeneous satellite data in NASA-funded geospatial projects.
+
+At **Northeastern University’s Gyori Lab**, I contribute to a project on ontology alignment, where we use **SeMRA graphs** and large language models to improve mappings across biomedical knowledge bases. Earlier, my work in finance explored how agents adapt to shifting market regimes, leading to my frameworks on **trust decay**, **belief bandwidth**, and a **fragility index** for sequential decision-making under drift.
