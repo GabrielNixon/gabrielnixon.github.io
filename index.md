@@ -11,12 +11,12 @@ title: Home
       I study how systems adapt when their assumptions fail.
     </div>
     <div class="sub" style="margin-top:.3rem">
-      NYU • CUNY Geospatial Institute • Northeastern (Gyori Lab) • LBNL • NASA projects
+      NYU • CUNY Geospatial Institute • Northeastern (Gyori Lab) • LBNL
     </div>
     <div class="cta">
       <a class="primary" href="/cv/">CV</a>
       <a href="mailto:gr2513@nyu.edu">Email</a>
-      <a href="https://scholar.google.com" target="_blank">Google Scholar</a>
+      <a href="[https://scholar.google.com](https://scholar.google.com/citations?user=VDtDN80AAAAJ&hl=en&oi=ao)" target="_blank">Google Scholar</a>
       <a href="/publications/">Publications</a>
       <a href="/preprints/">Preprints</a>
     </div>
@@ -25,8 +25,3 @@ title: Home
 
 ## About
 I work on fragility in decision systems: why local reasoning can fail to create stable global behavior. My recent work develops stress-adaptive updates (trust decay, belief bandwidth), a fragility index for sequential decisions under drift, and geometric measures of model failure using singular learning theory.
-
-## News
-- Submission in preparation: stress-adaptive decision framework with dynamic-regret guarantees.
-- Ontology alignment with **Gyori Lab** using SeMRA priors and LLM-completed edges before BERTMap.
-- NASA/CUNY project: spectral alignment for heterogeneous satellite bands across regions.
