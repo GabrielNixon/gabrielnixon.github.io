@@ -37,9 +37,8 @@ If you want ALL posts, replace "res_posts" with "site.posts" below.
           {%- endif -%}
           {%- if post.tags and post.tags.size > 0 -%}
             <div style="margin-top:.4rem">
-              {%- for t in post.tags -%}
-                <span class="tag">#{{ t }}</span>
-              {%- endfor -%}
+              {%- assign unique_tags = post.tags | uniq -%}
+              {{ unique_tags | join: ", " }}
             </div>
           {%- endif -%}
         </a>
