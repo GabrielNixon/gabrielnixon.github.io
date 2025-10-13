@@ -27,7 +27,6 @@ title: Home
 I work on fragility in decision systems: why local reasoning can fail to create stable global behavior. My recent work develops stress-adaptive updates (trust decay, belief bandwidth), a fragility index for sequential decisions under drift, and geometric measures of model failure using singular learning theory.
 
 ## News
-- COLT submission in preparation: stress-adaptive decision framework with dynamic-regret guarantees.
-- Manuscript with **Yanjun Han (NYU)**: real log canonical thresholds as a measure of policy fragility in RL.
+- Submission in preparation: stress-adaptive decision framework with dynamic-regret guarantees.
 - Ontology alignment with **Gyori Lab** using SeMRA priors and LLM-completed edges before BERTMap.
 - NASA/CUNY project: spectral alignment for heterogeneous satellite bands across regions.
