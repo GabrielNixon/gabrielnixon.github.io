@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+  {% include head.html %}
+  <body>
+    {% include header.html %}
+    <main class="site-main">
+      <div class="wrap">
+        {{ content }}
+      </div>
+    </main>
+    <footer class="site-footer">
+      <div class="wrap">
+        <div class="foot-left">
+          © {{ site.title }} {{ site.time | date: '%Y' }}
+        </div>
+        <div class="foot-right">
+          <a href="mailto:gr2513@nyu.edu">gr2513@nyu.edu</a> ·
+          <a href="https://github.com/GabrielNixon">GitHub</a> ·
+          <a href="https://www.linkedin.com/in/gabrielnixonraj">LinkedIn</a> ·
+          <a href="{{ '/feed.xml' | relative_url }}">RSS</a>
+        </div>
+      </div>
+    </footer>
+  </body>
+</html>
