@@ -31,15 +31,14 @@ title: Publications
 - **Stress-Aware Scenario Generation for Portfolio Inference under Regime Shifts**  
   *G. N. Raj*.  
   *NeurIPS Workshop 2025 (Best Paper Nomination)*.  
-  [pdf](#)
+  [arXiv](https://arxiv.org/abs/2509.14385)
 
 ---
 
 ### Preprints & In Preparation
 
 - **Stress-Adaptive Frameworks: Trust Decay, Belief Bandwidth, and a Fragility Index**  
-  *G. N. Raj.* In preparation for *COLT 2025*.  
-  [arXiv](https://arxiv.org/abs/2509.14385)
+  *G. N. Raj.  
 
 - **Singular Learning Theory for Reinforcement Learning: RLCT as a Measure of Policy Fragility**  
   *G. N. Raj, Y. Han.* Manuscript, *New York University*.  
