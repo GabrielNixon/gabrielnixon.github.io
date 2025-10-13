@@ -1,5 +1,5 @@
 title: Gabriel Nixon Raj
-description: Fragility, Learning, and Decision Systems
+description: Fragility • Learning • Decision Systems
 url: https://gabrielnixon.github.io
 markdown: kramdown
 highlighter: rouge
@@ -8,15 +8,6 @@ plugins:
   - jekyll-seo-tag
   - jekyll-feed
 
-# Collections (optional)
-collections:
-  posts:
-    output: true
-
-# Defaults
 defaults:
   - scope: { path: "" }
-    values:
-      layout: post
-      toc: false
-      nav: true
+    values: { layout: default }
