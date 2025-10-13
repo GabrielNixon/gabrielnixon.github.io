@@ -38,7 +38,7 @@ title: Publications
 ### Preprints & In Preparation
 
 - **Stress-Adaptive Frameworks: Trust Decay, Belief Bandwidth, and a Fragility Index**  
-  *G. N. Raj.  
+  G. N. Raj.  
 
 - **Singular Learning Theory for Reinforcement Learning: RLCT as a Measure of Policy Fragility**  
   *G. N. Raj.* Manuscript, *New York University*.  
