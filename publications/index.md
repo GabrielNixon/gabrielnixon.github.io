@@ -41,5 +41,5 @@ title: Publications
   *G. N. Raj.  
 
 - **Singular Learning Theory for Reinforcement Learning: RLCT as a Measure of Policy Fragility**  
-  *G. N. Raj, Y. Han.* Manuscript, *New York University*.  
+  *G. N. Raj.* Manuscript, *New York University*.  
   [abstract](#)
