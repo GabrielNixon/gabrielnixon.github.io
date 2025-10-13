@@ -25,6 +25,17 @@ html.dark { --bg:#0b0f1a; --text:#e5e7eb; --muted:#95a3b8; --border:#1f2937; --l
 .cta a{padding:.45rem .8rem;border:1px solid var(--border);border-radius:999px;text-decoration:none;color:var(--text)}
 .cta a.primary{background:#111;color:#fff;border-color:#111}
 
+.site-header{
+  position: sticky; top:0; z-index:10;
+  backdrop-filter: blur(6px);
+  background: color-mix(in sRGB, var(--bg) 92%, transparent);
+  border-bottom: 1px solid var(--border);
+}
+.wrap{max-width: var(--wrap); margin:0 auto; padding:1.2rem}
+.nav{display:flex; gap:1rem; justify-content:flex-start; flex-wrap:wrap}
+.nav a{color:var(--muted); text-decoration:none}
+.nav a:hover{color:var(--text)}
+
 h2{margin-top:2rem;font-size:1.35rem}
 .section{margin-top:1.2rem}
 .card{border:1px solid var(--border);border-radius:12px;padding:1rem;margin:.6rem 0}
