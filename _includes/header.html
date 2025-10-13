@@ -1,0 +1,17 @@
+<header class="site-header">
+  <div class="wrap">
+    <a class="brand" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+    {% if page.nav != false %}
+    <nav class="nav">
+      <a href="{{ '/' | relative_url }}">Home</a>
+      <a href="{{ '/research/' | relative_url }}">Research</a>
+      <a href="{{ '/publications/' | relative_url }}">Publications</a>
+      <a href="{{ '/preprints/' | relative_url }}">Preprints</a>
+      <a href="{{ '/talks/' | relative_url }}">Talks</a>
+      <a href="{{ '/cv/' | relative_url }}">CV</a>
+      <a href="{{ '/contact/' | relative_url }}">Contact</a>
+    </nav>
+    {% endif %}
+    <button id="theme-toggle" aria-label="Toggle dark mode">◐</button>
+  </div>
+</header>
