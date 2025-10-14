@@ -16,7 +16,7 @@ title: Home
     <div class="cta">
       <a class="primary" href="/cv/">CV</a>
       <a href="mailto:gr2513@nyu.edu">Email</a>
-      <a href="[https://scholar.google.com](https://scholar.google.com/citations?user=VDtDN80AAAAJ&hl=en&oi=ao)" target="_blank">Google Scholar</a>
+      <a href="https://scholar.google.com/citations?user=VDtDN80AAAAJ&amp;hl=en&amp;oi=ao" target="_blank" rel="noopener noreferrer">Google Scholar</a>
       <a href="/publications/">Publications</a>
       <a href="/preprints/">Preprints</a>
     </div>
