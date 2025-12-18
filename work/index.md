@@ -11,25 +11,23 @@ title: Work
 ## Research Experience
 <div class="cards-grid">
   <div class="card">
-    <h3>NYU Mattar Lab | Reinforcement Learning Researcher (Aug 2025 – Present)</h3>
+    <h3>NYU Mattar Lab | Reinforcement Learning Researcher</h3>
     <ul class="plain">
-      <li><strong>Problem:</strong> Understanding how rodents adapt their decisions when task logics change.</li>
-      <li><strong>Approach:</strong> Modeled behavior using RNNs and HMMs to capture latent task states.</li>
+      <li><strong>Problem:</strong> Understanding how rodents adapt their decisions when task rules change.</li>
+      <li><strong>Approach:</strong> Modeled behavior using RNNs and HMMs to infer latent task states.</li>
       <li><strong>Impact:</strong> Provided a structured view of adaptive decision-making.</li>
     </ul>
-    <p>Adaptive and Regime-Aware RL for Portfolio Optimization [<a href="https://github.com/GabrielNixon/RegimeAware-PPO">paper</a>] [<a href="https://github.com/GabrielNixon/RegimeAware-PPO">code</a>]</p>
-    <p>Belief Distortion under Stress using Trust Decay and KL-Regularized Inference [<a href="https://github.com/GabrielNixon/BeliefDistortion">paper</a>] [<a href="https://github.com/GabrielNixon/BeliefDistortion">code</a>]</p>
   </div>
   <div class="card">
-    <h3>Northeastern University (Gyori Lab) | Capstone Researcher (Sep 2025 – Dec 2025)</h3>
+    <h3>Northeastern University (Gyori Lab) | Capstone Researcher</h3>
     <ul class="plain">
-      <li><strong>Problem:</strong> Biomedical knowledge bases are fragmented.</li>
-      <li><strong>Approach:</strong> Applied logic-based tools and deep learning for ontology alignment.</li>
-      <li><strong>Impact:</strong> Improved interoperability of biomedical data.</li>
+      <li><strong>Problem:</strong> Biomedical ontologies are fragmented, limiting candidate generation.</li>
+      <li><strong>Approach:</strong> Combined DragonAI enrichment, SeMRA priors, and SapBERT fine-tuning.</li>
+      <li><strong>Impact:</strong> Improved candidate retrieval for ontology alignment pipelines.</li>
     </ul>
   </div>
   <div class="card">
-    <h3>CUNY Geospatial Institute | Associate Researcher (Aug 2025 – Dec 2025)</h3>
+    <h3>CUNY Geospatial Institute | Associate Researcher</h3>
     <ul class="plain">
       <li><strong>Problem:</strong> Satellite-based analysis is fragmented across sensors and resolutions.</li>
       <li><strong>Approach:</strong> Built an interpretable multi-sensor analysis pipeline.</li>
@@ -37,15 +35,15 @@ title: Work
     </ul>
   </div>
   <div class="card">
-    <h3>NYU School of Global Public Health | AI Policy Researcher (Jun 2025 – Sep 2025)</h3>
+    <h3>NYU School of Global Public Health | AI Policy Researcher</h3>
     <ul class="plain">
       <li><strong>Problem:</strong> AI systems can amplify bias and fail under uncertainty.</li>
-      <li><strong>Approach:</strong> Modeled trust, bias, and coordination risks.</li>
-      <li><strong>Impact:</strong> Produced equity-aware ML policy recommendations.</li>
+      <li><strong>Approach:</strong> Analyzed trust, bias, and coordination risks via policy modeling.</li>
+      <li><strong>Impact:</strong> Produced equity-aware ML deployment recommendations.</li>
     </ul>
   </div>
   <div class="card">
-    <h3>Lawrence Berkeley National Laboratory | AI Research Intern (May 2025 – Aug 2025)</h3>
+    <h3>Lawrence Berkeley National Laboratory | AI Research Intern</h3>
     <ul class="plain">
       <li><strong>Problem:</strong> HPC telemetry streams are too large for manual monitoring.</li>
       <li><strong>Approach:</strong> Designed a multi-agent decision-support framework for diagnostics.</li>
@@ -53,7 +51,7 @@ title: Work
     </ul>
   </div>
   <div class="card">
-    <h3>SIES Graduate School of Technology | Research Assistant (May 2023 – Aug 2023)</h3>
+    <h3>SIES Graduate School of Technology | Research Assistant</h3>
     <ul class="plain">
       <li><strong>Problem:</strong> Optimization algorithms get trapped in local minima.</li>
       <li><strong>Approach:</strong> Developed hybrid genetic–annealing algorithms.</li>
