@@ -20,7 +20,6 @@ title: Work
   </div>
   <div class="card">
     <h3>Northeastern University (Gyori Lab) | Capstone Researcher (Sep 2025 – Dec 2025)</h3>
-    <p>[<a href="/assets/posters/GyoriLab-Poster.pdf">poster</a>]</p>
     <ul class="plain">
       <li><strong>Problem:</strong> Biomedical knowledge bases are fragmented.</li>
       <li><strong>Approach:</strong> Applied logic-based tools and deep learning for ontology alignment.</li>
@@ -45,7 +44,6 @@ title: Work
   </div>
   <div class="card">
     <h3>Lawrence Berkeley National Laboratory | AI Research Intern (May 2025 – Aug 2025)</h3>
-    <p>[<a href="/assets/posters/LBNL_poster_pdf.pdf">poster</a>]</p>
     <ul class="plain">
       <li><strong>Problem:</strong> HPC telemetry streams are too large for manual monitoring.</li>
       <li><strong>Approach:</strong> Designed a multi-agent decision-support framework for diagnostics.</li>

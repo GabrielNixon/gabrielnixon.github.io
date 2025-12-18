@@ -33,6 +33,6 @@ title: Publications
 ### Posters
 <ul class="plain">
   <li>Sharp Regret Bounds for Empirical Bayes — NYU Courant.</li>
-  <li>Sharp Minima Can Generalize for Deep Nets — NYU CDS. [<a href="/assets/posters/SharpMinima.pdf">poster</a>]</li>
+  <li>Sharp Minima Can Generalize for Deep Nets — NYU CDS.</li>
   <li>Monitoring Meets Modularity — LBNL.</li>
 </ul>
