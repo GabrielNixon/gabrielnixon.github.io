@@ -1,6 +1,9 @@
 # Changelog
 
-## 2025-XX-XX
-- Rewrote home page with concise thesis, focus chips, featured research cards, and updated timeline/news.
-- Consolidated work content into a single page with research interests, roles, applied work, and teaching organized from CV data.
-- Standardized publications into selected and grouped lists without placeholder links; kept writing index minimal.
+## 2025-12-18
+- Rebuilt the home page with CV-based thesis, featured research cards, and an education-plus-research timeline.
+- Consolidated work page into interests, research experience, applied work, and teaching aligned to CV.
+- Restructured publications into selected highlights and grouped lists without placeholder links; refreshed footer contact links.
+
+## 2025-12-19
+- Added provided paper, code, and poster links to relevant publications and work entries.
