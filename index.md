@@ -51,29 +51,10 @@ title: Home
 
 <div class="section">
   <div class="section-heading">
-    <h2>Snapshot</h2>
-    <span class="muted">Education and research timeline</span>
+    <h2>News</h2>
+    <span class="muted">Recent updates</span>
   </div>
-  <ol class="timeline">
-    <li>
-      <div class="time">2024 – 2026 (expected)</div>
-      <div class="summary">M.S. in Data Science, NYU Center for Data Science — GPA 3.8.</div>
-    </li>
-    <li>
-      <div class="time">2020 – 2024</div>
-      <div class="summary">B.E. in Computer Engineering, SIES Graduate School of Technology — GPA 3.7.</div>
-    </li>
-    <li>
-      <div class="time">Aug 2025 – Present</div>
-      <div class="summary">Reinforcement Learning Researcher, NYU Mattar Lab.</div>
-    </li>
-    <li>
-      <div class="time">May 2025 – Aug 2025</div>
-      <div class="summary">AI Research Intern, Lawrence Berkeley National Laboratory.</div>
-    </li>
-    <li>
-      <div class="time">Aug 2025 – Dec 2025</div>
-      <div class="summary">Associate Researcher, CUNY Geospatial Institute.</div>
-    </li>
-  </ol>
+  <ul class="plain">
+    <li><strong>December 2025:</strong> Awarded Runner-Up Best Paper at the NeurIPS 2025 GenAI in Finance Workshop, sponsored by Cubist Systematic Strategies ($1,500).</li>
+  </ul>
 </div>
