@@ -2,44 +2,28 @@
 title: Publications
 ---
 
-### Peer-Reviewed Publications
+### Selected
+- Stress-Aware Learning under KL Drift via Trust-Decayed Mirror Descent (Preprint, 2025)
+- Belief Distortion under Stress using Trust Decay and KL-Regularized Inference (CFE-CMStatistics, 2025)
+- Stress-Aware Scenario Generation for Reliable Portfolio Inference (NeurIPS GenAI in Finance Workshop, 2025)
+- Adaptive and Regime-Aware RL for Portfolio Optimization (Preprint, 2025)
+- Smart Healthcare Companion with Tesseract OCR and KNN Integration (Book Chapter, 2025)
 
-- **Leveraging CNN and IoT for Effective E-Waste Management**  
-  *G. N. Raj*, N. Kathpalia, M. Venkatesh.  
-  *IEEE I-SMAC 2023*.  
-  [IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/10290543)
+### Preprints
+- Stress-Aware Learning under KL Drift via Trust-Decayed Mirror Descent (2025)
+- Adaptive and Regime-Aware RL for Portfolio Optimization (2025)
 
-- **A Smart Healthcare Companion with Tesseract OCR and KNN Integration**  
-  *N. Kathpalia, G. N. Raj, M. Venkatesh*.  
-  In *Technology, Engineering, and Applications in Healthcare (Taylor & Francis, 2025)*.  
-  [Taylor & Francis](https://www.taylorfrancis.com/chapters/edit/10.1201/9781003596707-30/smart-healthcare-companion-tesseract-ocr-knn-integration-nishant-kathpalia-gabriel-nixon-raj-madhavan-venkatesh)
+### Conferences
+- Belief Distortion under Stress using Trust Decay and KL-Regularized Inference — CFE-CMStatistics 2025 (oral)
+- Stress-Aware Scenario Generation for Reliable Portfolio Inference — NeurIPS 2025 GenAI in Finance Workshop (Runner-Up)
+- YouTube Transcript Summarization using Transformer-Based Models — ICREACT 2023
+- Automated Energy Billing with Blockchain and Prophet Forecasting — IEEE MRT 2023
 
-- **Automated Energy Billing with Blockchain and the Prophet Forecasting Model**  
-  *G. N. Raj, N. Kathpalia, M. Venkatesh.*  
-  *IEEE MRT 2024*.  
-  [arXiv](https://arxiv.org/abs/2506.16649)
+### Journals & Book Chapters
+- Smart Healthcare Companion with Tesseract OCR and KNN Integration — CRC Press, 2025
+- Leveraging CNN and IoT for Effective E-Waste Detection — IEEE I-SMAC 2023
 
----
-
-### Conference & Workshop Papers
-
-- **Belief Distortion under Stress using Trust Decay and KL-Regularized Inference**  
-  *G. N. Raj*.  
-  *CFE-CMStatistics 2025 (Oral)*.  
-  [pdf](#)
-
-- **Stress-Aware Scenario Generation for Portfolio Inference under Regime Shifts**  
-  *G. N. Raj*.  
-  *NeurIPS Workshop 2025 (Best Paper Nomination)*.  
-  [arXiv](https://arxiv.org/abs/2509.14385)
-
----
-
-### Preprints & In Preparation
-
-- **Stress-Adaptive Frameworks: Trust Decay, Belief Bandwidth, and a Fragility Index**  
-  G. N. Raj.  
-
-- **Singular Learning Theory for Reinforcement Learning: RLCT as a Measure of Policy Fragility**  
-  *G. N. Raj.* Manuscript, *New York University*.  
-  [abstract](#)
+### Posters
+- Sharp Regret Bounds for Empirical Bayes — NYU Courant
+- Sharp Minima Can Generalize for Deep Nets — NYU Center for Data Science
+- Monitoring Meets Modularity — Lawrence Berkeley National Laboratory
