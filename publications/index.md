@@ -2,10 +2,18 @@
 title: Publications
 ---
 
+### Selected
+<ul class="plain">
+  <li>Belief Distortion under Stress using Trust Decay and KL-Regularized Inference — CFE-CMStatistics, 2025. [<a href="https://github.com/GabrielNixon/BeliefDistortion">code</a>]</li>
+  <li>Stress-Aware Scenario Generation for Reliable Portfolio Inference — NeurIPS GenAI in Finance, 2025 (Runner-Up).</li>
+  <li>Stress-Aware Learning under KL Drift via Trust-Decayed Mirror Descent — Preprint, 2025.</li>
+  <li>Adaptive and Regime-Aware RL for Portfolio Optimization — Preprint, 2025. [<a href="https://github.com/GabrielNixon/RegimeAware-PPO">code</a>]</li>
+</ul>
+
 ### Preprints
 <ul class="plain">
-  <li>Stress-Aware Learning under KL Drift via Trust-Decayed Mirror Descent — 2025. [<a href="https://arxiv.org/abs/2510.15222">paper</a>]</li>
-  <li>Adaptive and Regime-Aware RL for Portfolio Optimization — 2025. [<a href="https://arxiv.org/abs/2509.14385">paper</a>] [<a href="https://github.com/GabrielNixon/RegimeAware-PPO">code</a>]</li>
+  <li>Stress-Aware Learning under KL Drift via Trust-Decayed Mirror Descent — 2025.</li>
+  <li>Adaptive and Regime-Aware RL for Portfolio Optimization — 2025. [<a href="https://github.com/GabrielNixon/RegimeAware-PPO">code</a>]</li>
   <li>Ontology Alignment via SeMRA-Guided Representation Learning — Gyori Lab. [<a href="https://github.com/HarshitSoni1903/Ontology-Alignment-via-SeMRA-Guided-Representation-Learning">code</a>] [<a href="/assets/posters/GyoriLab-Poster.pdf">poster</a>]</li>
 </ul>
 
@@ -14,7 +22,7 @@ title: Publications
   <li>Belief Distortion under Stress using Trust Decay and KL-Regularized Inference — CFE-CMStatistics, 2025. [<a href="https://github.com/GabrielNixon/BeliefDistortion">code</a>]</li>
   <li>Stress-Aware Scenario Generation for Reliable Portfolio Inference — NeurIPS GenAI in Finance, 2025 (Runner-Up). [<a href="https://github.com/GabrielNixon/RegimeAware-PPO">code</a>]</li>
   <li>YouTube Transcript Summarization using Transformer-Based Models — ICREACT, 2023.</li>
-  <li>Automated Energy Billing with Blockchain and Prophet Forecasting — IEEE MRT, 2023. [<a href="https://arxiv.org/abs/2506.16649">paper</a>]</li>
+  <li>Automated Energy Billing with Blockchain and Prophet Forecasting — IEEE MRT, 2023. [<a href="https://arxiv.org/abs/2310.13188">paper</a>]</li>
 </ul>
 
 ### Journals & Book Chapters
