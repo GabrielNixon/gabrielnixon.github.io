@@ -17,6 +17,8 @@ title: Work
       <li><strong>Approach:</strong> Modeled behavior using RNNs and HMMs to capture latent task states.</li>
       <li><strong>Impact:</strong> Provided a structured view of adaptive decision-making.</li>
     </ul>
+    <p>Adaptive and Regime-Aware RL for Portfolio Optimization [<a href="https://github.com/GabrielNixon/RegimeAware-PPO">paper</a>] [<a href="https://github.com/GabrielNixon/RegimeAware-PPO">code</a>]</p>
+    <p>Belief Distortion under Stress using Trust Decay and KL-Regularized Inference [<a href="https://github.com/GabrielNixon/BeliefDistortion">paper</a>] [<a href="https://github.com/GabrielNixon/BeliefDistortion">code</a>]</p>
   </div>
   <div class="card">
     <h3>Northeastern University (Gyori Lab) | Capstone Researcher (Sep 2025 – Dec 2025)</h3>
